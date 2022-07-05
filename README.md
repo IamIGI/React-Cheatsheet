@@ -2,6 +2,9 @@
 
 ## Description
 
+Cheat sheet based on yt tutorial by Dave Grey
+https://www.youtube.com/watch?v=RVFAyFWO4go
+
 ## Useful links
 
 # React
