@@ -23,3 +23,8 @@ https://www.npmjs.com/package/react-icons
 # Local storage
 
 https://developer.mozilla.org/pl/docs/Web/API/Window/localStorage
+
+# NPM Server
+
+https://www.npmjs.com/package/json-server
+(run as a npx for no dep.)
